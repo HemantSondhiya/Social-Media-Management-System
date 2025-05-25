@@ -28,7 +28,7 @@ Spring Boot
 
 Spring Data JPA (Hibernate)
 
-H2 / MySQL Database
+H2 Database
 
 Lombok (for cleaner code)
 
