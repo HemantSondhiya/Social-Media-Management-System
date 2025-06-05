@@ -64,7 +64,7 @@ Some things I’m thinking of adding next:
 
 Spring Security + JWT
 
-Frontend integration (maybe React or Angular)
+Frontend integration ( React )
 
 Pagination and filtering on posts
 
